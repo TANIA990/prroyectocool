@@ -1,0 +1,24 @@
+/*css externo*/
+body{
+    color:beige;
+
+background-color:red;
+}
+/* comentario pero
+este es
+mas largo
+*/
+/* selectores */
+/* selectores etiqueta */
+
+a{
+     color:gray;
+}
+/*selector universal*/
+*{
+    margin: 0;
+}
+/*selectores de clase*/
+.menu-item{
+    color:green;
+}
